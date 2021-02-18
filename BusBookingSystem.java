@@ -1,8 +1,4 @@
 //Program to bus reservation booking system
-//Author:Murugan.V	
-//Created on:13/2/2021
-//last updated on:16/2/2021
-//Yet to reviewed by Jaya and Anto
 package Realtimeconcepts;
 import java.util.Scanner;
 import java.io.BufferedWriter;
